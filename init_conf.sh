@@ -45,7 +45,7 @@ sudo ifconfig wlan0:13 192.168.1.143 netmask 255.255.255.0 up
 sudo ifconfig wlan0:14 192.168.1.144 netmask 255.255.255.0 up
 sudo ifconfig wlan0:15 192.168.1.145 netmask 255.255.255.0 up
 sudo ifconfig wlan0:16 192.168.1.146 netmask 255.255.255.0 up
-sudo ifconfig wlan0:17 192.168.1.147 netmask 255.255.255.0 up
+#sudo ifconfig wlan0:17 192.168.1.147 netmask 255.255.255.0 down
 #sudo ifconfig wlan0:18 192.168.1.148 netmask 255.255.255.0 down
 #sudo ifconfig wlan0:19 192.168.1.149 netmask 255.255.255.0 down
 #sudo ifconfig wlan0:20 192.168.1.150 netmask 255.255.255.0 down
